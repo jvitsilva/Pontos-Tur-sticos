@@ -1,0 +1,25 @@
+[
+    {"nome":"Mangal das Garças", 
+     "endereco":"R. Carneiro da Rocha, s/n - Cidade Velha, Belém - PA, 66020-160",
+     "dataFundacao":"12 de Janeiro de 2005", 
+     "descricao": "Está localizado às margens do rio Guamá, em pleno centro histórico de Belém do Pará. \nNo Mangal podemos encontrar: O Museu Amazônico da Navegação. Manjar das Garças, um dos melhores restaurantes da capital. \nViveiro das Aningas ou Viveiro dos Pássaros, onde o visitante tem contato direto com uma impressionante quantidade de pássaros. \nArmazém do Tempo, onde os visitantes podem comprar plantas, artesanato, livros e CDs de artistas paraenses e é possível saborear no \nlocal um requintado serviço de café.\n\n"},
+
+
+    {"nome":"Bosque Rodrigues Alves", 
+     "endereco":"Av. Alm. Barroso, 2305, Marco, Belém - PA, 66093-034", 
+     "dataFundacao":"25 de Agosto de 1883", 
+     "descricao": "Inaugurado durante o governo Antônio Lemos, tornou-se símbolo do embelezamento da capital \nda Borracha na época, conservando até hoje estruturas originais do período em que foi erguido, obras como o monumento aos \nIntendentes Municipais, a estátua aos lendários guardiões da floresta Mapinguari e Curupira, o quiosque chinês, o chalé de ferro, \na Gruta de Pedra-Sabão e o portão monumental da entrada principal. A fauna é exclusivamente constituída por animais originários \nda floresta amazônica, tendo animais em cativeiro, ou semi cativeiro e alguns poucos em liberdade, como as pacas.\n\n"},
+
+
+    {"nome":"Museu Paraense Emílio Goeldi", 
+     "endereco":"Av. Gov Magalhães Barata, 376, São Braz, Belém - PA, 66040-170", 
+     "dataFundacao":"6 de outubro de 1866", 
+     "descricao": "Possui acervos de conhecimentos nas áreas de ciências naturais e humanas relacionados à Amazônia, \nalém de promover pesquisas e estudos científicos dos sistemas naturais e culturais da região. É a mais antiga instituição \nna região amazônica e é reconhecida mundialmente como uma das importantes instituições de investigação científica sobre a \nAmazônia brasileira\n\n"},
+
+
+    {"nome":"Parque Estadual do Utinga", 
+     "endereco":"Av. João Paulo II, Curió Utinga, Belém - PA, 66610-770", 
+     "dataFundacao":"1993", 
+     "descricao": "Em proteção ambiental, o Parque Estadual do Utinga é uma unidade de conservação à nível estadual de \nProteção Integral brasileira, situado na Região Metropolitana de Belém (Pará). Cujo objetivo é de preservar ecossistemas \nnaturais de grande relevância ecológica e beleza cênica, estimular a realização de pesquisas científicas e, além disso, \nincentivar o desenvolvimento de atividades de educação ambiental, incluindo o turismo ecológico\n\n"}
+
+]

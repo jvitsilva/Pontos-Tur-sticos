@@ -1,0 +1,42 @@
+[
+    {"nome":"Estação das Docas",
+     "endereco":"Av. Mal. Hermes, S/N - Campina, Belém - PA, 66010-020",
+      "dataFundacao":"13 de maio de 2000",
+      "descricao": "A Estação das Docas (inicialmente era o Porto de Belém edificado em 1850) é um complexo turístico e cultural, situado na rua Castilhos \nFrança, na cidade paraense de Belém (estado brasileiro do Pará), inaugurado em 13 de maio de 2000. Administrado pela Organização \nSocial Pará 2000. O complexo congrega diversos aspectos, entre eles: gastronomia, cultura, moda e eventos. São 32 mil metros quadrados divididos \nem três armazéns e um terminal de passageiros, uma janela para a Baía do Guajará e a ilha das onças.\n\n"},
+
+    {"nome":"Theatro da Paz",
+     "endereco":"Av. da Paz, S/N - Campina, Belém - PA, 66017-060",
+     "dataFundacao":"15 de fevereiro de 1878",
+     "descricao": "O teatro foi premiado pelo site Trip Savvy na categoria \"Melhor local para amantes da cultura\" do concurso \"Escolha do Editor 2021\" \n(do inglês \"Editor’s Choice Award 2021\"), destacado como um dos melhores lugares para se visitar a nível global. Na sala de espetáculo, \nhá um lustre americano de bronze, no teto uma pintura do italiano Domenico de Angelis, sobre uma viagem do deus Apolo à Amazônia, as musas \ne a deusa Diana, como uma india caçadora enfrente uma onça. A pintura de boca do palco de 1890, é uma alegoria à República, \nfeita pelo francês Carpezat.\n\n"},
+
+    {"nome":"Praça da República",
+     "endereco":"Av. Pres. Vargas, 814 - Campina, Belém - PA, 66017-060",
+     "dataFundacao":"1889",
+     "descricao": "Em homenagem ao imperador, lhe deram o nome de Pedro II, mas continuava sendo um grande terreno descampado. Em 1850, até plantaram algumas \nárvores, mas de forma desordenada. Com a inauguração do Theatro da Paz, em 1878, houve uma urbanização, também modesta. Seu nome definitivo \nveio com a troca de regime: ”Praça da República”. Hoje a praça da República torna-se o palco ideal de grandes comemorações como o Círio \nde Nazaré, o Dia da Raça e o desfile de 7 de setembro. Nos outros 362 dias do ano, é o lugar ideal para passear com a família, \nfazer evangelismo, encontrar os amigos ou namorar.\n\n"},
+
+    {"nome":"Praça Batista Campos",
+     "endereco":"Batista Campos, Belém - PA, 66025-230", 
+     "dataFundacao":"14 de fevereiro de 1904",
+     "descricao": "No século XIX, o terreno pertencia a Maria Manoela de Figueira e Salvaterra, sendo por isso conhecido como “Largo da Salvaterra”. Com a morte \nda proprietária, as terras passaram a pertencer à Câmara Municipal de Belém. A praça segue a tendência do século 19, assim, nesse período, \nsurgiram mercados, praças e avenidas, diferente do que acontecia antes nos espaços públicos, como largos, e praças secas (ausência de vegetação) \nda cidade colonial, que tinham múltiplos usos.\n\n"},
+
+    {"nome":"Parque da Residência",
+     "endereco":"Av. Gov Magalhães Barata, 830 - São Brás, Belém - PA, 66063-240", 
+     "dataFundacao":"1934",
+    "descricao": "Residência oficial dos governadores do estado a partir de 1934, teve como primeiro morador Magalhães Barata. Mas o prédio já havia sido lar dos \ngovernadores Enéas Martins (1913-1917) e Lauro Sodré (1917-1921). O lugar que presenciou grandes decisões administrativas agora é a sede da \nSecretaria Executiva de Cultura (SECULT) do estado do Pará. A pavimentação de pedras portuguesas por todo o parque, as luminárias de ferro, \nas estátuas de belas mulheres cobertas de tecido delicado, o palacete do início do século XX, o Coreto, o orquidário, a \nadjacência delimitada por grandes oponentes de ferro incluindo o brasão do estado do Pará sobre o enorme portão de entrada.\n\n"},
+
+    {"nome":"Hangar Centro de Convenções da Amazônia",
+     "endereco":"Av. Doutor Freitas, s/n - Marco, Belém - PA, 66613-902", 
+     "dataFundacao":"1950",
+     "descricao": "Hangar Centro de Convenções e Feiras da Amazônia é um centro de convenções multi-ambiente brasileiro, localizado em um hangar da Aeronáutica \nBrasileira construído em 1950, remodelado em 2007 para abrigar vários tipos de eventos. É situado no município paraense de Belém (estado brasileiro do Pará). \nO Hangar conta com 24 mil metros quadrados de área construída, sendo o maior da Amazônia e um dos maiores do Brasil.\n\n"},
+
+    {"nome":"Vila Container",
+     "endereco":"Av. Gov Magalhães Barata, 62 - Nazaré, Belém - PA, 66060-281", 
+     "dataFundacao":"Recente",
+     "descricao": "O Vila Container é um complexo cultural feito de containers com empreendimentos criativos, espaço cultural e gastronomia."},
+
+    {"nome":"Praça do Relógio",
+     "endereco":"Av. Portugal, s/n - Campina, Belém - PA, 66013-080", 
+     "dataFundacao":"1930",
+     "descricao": "O relógio foi construído em 1930 pela empresa J.W. Benson, doado pelo intendente Antônio Faciola. Medindo 12 metros de altura, consiste de \nquatro luminárias em um relógio central importado da Inglaterra. Siqueira Campos foi um soldado que lutou na revolta do Forte de Copacabana. \nA Praça do Relógio faz parte do complexo arquitetônico e paisagístico do Ver-o-Peso tombado pelo IPHAN, em 1977.\n\n"}
+
+]

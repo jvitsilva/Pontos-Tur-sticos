@@ -1,0 +1,32 @@
+[
+    {"nome":"Ver-o-Peso", 
+    "endereco":"Blvd. Castilhos França - Campina, Belém - PA, 66013-030", 
+    "dataFundacao":"1901",
+    "descricao": "Ver-o-Peso, é um mercado público, feira-livre, zona portuária de pequeno porte e, praça brasileira inaugurado em 1901, situado na \ncidade paraense de Belém (estado brasileiro do Pará) na avenida Boulevard Castilhos França, no bairro da Campina, \nàs margens da baía do Guajará, ao lado da Estação das Docas. É considerado um dos mercados públicos mais antigos do País, que foi \neleito uma das maravilhas do estado do Pará e uma das 7 Maravilhas do Brasil. Ponto turístico, cultural e econômico \nda cidade de Belém, formado pelo Mercado de Ferro, Praça do Pescador, Doca das embarcações (1803, e feira do peixe), Pedra do Peixe e, \npela feira-livre (considerado a maior da América Latina) que abastece a cidade com variados gêneros: vestuário, ervas medicinais, \nalimentícios (como peixe e carne) vindos das ilhas circunvizinhas (área insular) da capital e dos municípios do interior, \nfornecidos por via fluvial.\n\n"},
+
+    {"nome":"Mercado de Ferro",
+     "endereco":"Av. Portugal, Campina, Belém - PA, 66053-070",
+      "dataFundacao":"1901",
+      "descricao": "O mercado, considerado um dos símbolos da cidade tanto para moradores como para turistas, existe desde a primeira metade do século \nXVII, mas só tomou a feição atual no início do século XX. O prédio atual foi construído pelos engenheiros Bento \nMiranda e Raimundo Viana, e inaugurado no dia 1º de dezembro de 1901. Segundo o historiador Geraldo Gomes, esses engenheiros, dos \nmais ativos em Belém no período do intendente Lemos (1843-1913), construíram o mercado e receberam uma concessão para \nexplorá-lo comercialmente.\n\n"},
+
+    {"nome":"Sorveteria Cairu",
+     "endereco":"",
+     "dataFundacao":"Mais de 50 anos",
+     "descricao": "A sorveteria brasileira Cairu entrou para a lista das 50 melhores do mundo no Festival Mundial do Gelato, um dos concursos mais famosos \ndo setor realizado em Roma, na Itália, na última quinta (21). Na avaliação do júri, ela foi a brasileira mais \nbem colocada no ranking, ocupando o 32º lugar, e o proprietário Armando José Laiun Filho recebeu o título de sorveteiro \"de ouro\" \ndo país Há 60 anos no mercado, a sorveteria traz no nome a referência ao sapo japonês kaeru, conhecido como sapo da \nsorte. Ela é herança do pai de Armando Laiun, que comprou um bar, mas mudou o ramo a pedido da esposa Ruth Henriques.\n\n"},
+
+    {"nome":"Manjar das Garças",
+     "endereco":"R. Dr. Assis, s/n - Cidade Velha, Belém - PA",
+    "dataFundacao":"12 de janeiro de 2005",
+    "descricao": "A localização e o estilo do restaurante garantem o sucesso do jantar a dois. Instalada no meio do belo parque, a sofisticada cabana tem teto \nde palha e é suspensa do solo por troncos de ipê. Da varanda ou do salão - protegido por paredes de vidro - \naprecia-se a natureza e a Baía do Guajará. Para embalar o ambiente, música ao vivo - instrumental durante o dia e voz e violão à noite.\n\n"},
+
+    {"nome":"Lá Traviata",
+     "endereco":"Av. Visc. de Souza Franco, 1454 - Nazaré, Belém - PA, 66053-000",
+      "dataFundacao":"1992",
+      "descricao": "O La Traviata é uma tradicional Cantina Italiana que foi inaugurada em 1992 por uma família de descendentes italianos. O cardápio é bastante \ndiversificado com massas artesanais: Lasanha, Rondele, Gnocchi, Spaghetti etc.. Além de filés, Risotos, peixes\n\n"},
+
+    {"nome":"Amazon Beer Gastropub",
+     "endereco":"Rua Estação das Docas, Blvd. Castilhos França, s/n, Belém - PA, 66013-030",
+     "dataFundacao":"2000",
+     "descricao": "Bar estilizado em porto antigo com opções de cervejas artesanais em salão descontraído com mesinhas nas docas\n\n"}
+    
+]

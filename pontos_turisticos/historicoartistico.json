@@ -1,0 +1,38 @@
+[
+    {"nome":"Museu de Arte Sacra",
+     "endereco":"Praça Frei Brandão, Cidade Velha, Belém - PA, 66020-240",
+     "dataFundacao":"1988",
+     "descricao": "A Igreja e Colégio de Santo Alexandre foram a sede da Companhia de Jesus na cidade de Belém \ndo Pará na época do Brasil Colônia. O antigo complexo jesuíta, um dos mais importantes ainda existentes no país, abriga atualmente \no Museu de Arte Sacra do Pará. A antiga igreja do colégio jesuíta de Belém, inaugurada em 1719, é um dos mais importantes templos \nerguidos pelos padres da Companhia no Brasil. O projeto é claramente aparentado ao da monumental Igreja Jesuíta de Salvador (atual catedral), \nque havia sido construída entre 1652 e 1672. A construção do edifício de Belém foi realizada com menos apuro técnico, talvez \ndevido ao caráter indígena da mão-de-obra empregada pelos jesuítas.\n\n"},
+     
+
+    {"nome":"Forte do Presépio",
+     "endereco":"Praça Dom Frei Caetano Brandão, Cidade Velha, Belém - PA, 66020-600",
+      "dataFundacao":"Maio de 1623",
+      "descricao": "Forte do Castelo (inicialmente chamado Forte do Presépio) é uma fortificação militar portuguesa \ncriada em 1616 por Francisco Caldeira Castelo Branco na ponta de Mairi à margem direita da foz do rio Guamá com a baía do Guajará. \nSua construção marcou a fundação do então povoado colonial português \"Feliz Lusitânia\" (atual cidade brasileira de Belém do Pará) \ne a ocupação da então Conquista do Pará (atual Estado do Pará) localizada na então Capitania do Maranhão, dominando a entrada do porto e \no canal de navegação que costeia a ilha das Onças e assegurando o domínio na Amazônia Oriental e das drogas do sertão.\n\n"},
+
+    {"nome":"Casa das Onze Janelas",
+     "endereco":"R. Siqueira Mendes, Cidade Velha, Belém - PA, 66020-600",
+      "dataFundacao":"2002",
+      "descricao": "O Espaço Cultural Casa das Onze Janelas, inicialmente chamado Palacete das Onze Janelas, é um espaço \ncultural e edificação histórica localizado na cidade brasileira de Belém, no estado do Pará, que desde 2002 abriga o museu de arte \ncontemporânea. Construído no século XVIII pelo dono de engenho de açúcar Domingos da Costa Bacelar. A edificação faz parte do \nconjunto arquitetônico e paisagístico denominado Feliz Lusitânia, núcleo histórico inicial da cidade de Belém do Pará. A área que envolve a \nCasa das Onze Janelas possui um conjunto de equipamentos culturais, como o Jardim de Esculturas, o Navio Corveta e o palco, \nque se projeta sobre a baía. Da área da Casa aprecia-se ainda uma bela vista da Baía do Guajará e do Mercado de Ver-o-Peso.\n\n"},
+
+    {"nome":"Espaço São José Liberto, ou Polo Joalheiro",
+     "endereco":"Praça Amazonas, s/n - Jurunas, Belém - PA, 66025-070",
+      "dataFundacao":"1749",
+      "descricao": "Espaço São José Liberto, ou Polo Joalheiro (inicialmente Convento de São José), é um espaço multi-ambiente \nbrasileiro, construído em 1749 no município de Belém (Pará), remodelado em 2002 para abrigar setores criativos e culturais, \ncomo patrimônio, expressões culturais, artes de espetáculo, dança. O espaço abriga diversas organizações e outros espaços, como \na Capela São José, que deu origem ao espaço como um todo; uma ourivesaria, que compõe o polo joalheiro; a \"Casa do Artesão\", o Museu de \nGemas do Pará; o Anfiteatro Coliseu das Artes; o Memorial da Cela; e o Jardim da Liberdade.\n\n"},
+
+    {"nome":"Museu do Encontro",
+     "endereco":"Praça Dom Frei Caetano Brandão, s/n - Cidade Velha, Belém - PA, 66020-600",
+     "dataFundacao":"Maio de 1623",
+     "descricao": "O Museu do Encontro faz parte da história da fundação de Belém. No seu interior, o visitante tem a oportunidade \nde ver cerâmicas de origens marajoaras e tapajônicas, peças indígenas, fragmentos de peças históricas e muitas outras pequenas \nrelíquias, obtidas no próprio sítio histórico de sua localização. O museu, fica no interior do Forte do Presépio, construído \nno século XVII, local onde foram encontradas estas riquezas arqueológicas. Durante muitos anos, o forte serviu como estratégia e defesa \nda cidade, graças a sua localização.\n\n"},
+
+    {"nome":"Museu de Arte de Belém",
+     "endereco":"Praça Dom Pedro II - Cidade Velha, Belém - PA, 66020-240",
+      "dataFundacao":"1991",
+      "descricao": "(ATUALMENTE ENCONTRA-SE FECHADO POR TEMPO INDETERMINADO)\nSeu estilo é chamado imperial brasileiro, um neoclássico tardio, com colunas toscanas, triângulos e simetria na fachada. \nNo interior, estão as escadarias neo gregas em mármore de lioz, dois pátios e os grandes salões. O Museu de Arte de Belém foi \ninstituído a partir de 1991 como um Departamento da Fundação Cultural do Município de Belém (FUMBEL), que por sua vez pertence \nà Prefeitura Municipal de Belém. O Museu reúne um conjunto significativo de obras de artistas locais, nacionais e estrangeiros, \nque referem o período áureo da borracha na cidade e um acervo contemporâneo em expansão.\n\n"},
+
+    {"nome":"Kamara Kó Galeria",
+     "endereco":"Tv. Frutuoso Guimarães, 611 - Campina, Belém - PA, 66015-055",
+     "dataFundacao":"2011",
+     "descricao": "A galeria nasceu em 2011 com o objetivo de difundir a fotografia contemporânea e promover conexões entre fotógrafos, \ncolecionadores, críticos e interessados nos processos criativos dos artistas da Amazônia. O acervo de obras reúne autores \nconsagrados e talentos emergentes, respeitando os direitos autorais, numeração e tiragem certificadas pelos artistas e pela galeria. \nNo segmento educativo, há oferta de cursos, palestras e encontros regulares com profissionais de várias áreas, buscando fomentar a produção, \ndifusão e a crítica sobre o fazer fotográfico e suas implicações.\n\n"}
+
+]
