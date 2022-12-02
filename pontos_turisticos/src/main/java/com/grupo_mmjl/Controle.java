@@ -26,7 +26,7 @@ public class Controle {
         lazer.add(adc);
     }
 
-    public void adicionarGas(Gastronomico adc) {
+    public void adicionarGast(Gastronomico adc) {
         gastronomico.add(adc);
     }
 }
