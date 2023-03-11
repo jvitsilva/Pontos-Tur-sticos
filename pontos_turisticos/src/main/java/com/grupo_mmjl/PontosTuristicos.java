@@ -1,7 +1,8 @@
 package com.grupo_mmjl;
 
 public abstract class PontosTuristicos {
-    private String nome, endereco, dataFundacao, descricao;
+
+	private String nome, endereco, dataFundacao, descricao;
 
     public PontosTuristicos(String nome, String endereco, String dataFundacao, String descricao) {
         this.nome = nome;
@@ -10,36 +11,27 @@ public abstract class PontosTuristicos {
         this.descricao = descricao;
     }
 
-    public String getNome() {
-        return nome;
-    }
+    @Override
+	public String toString() {
+		return "\nNOME: " + nome + "\nLOCALIZAÇÃO: " + endereco + "\nFUNDAÇÃO: " + dataFundacao + "\nDESCRIÇÃO: " + descricao;
+	}
 
-    public void setNome(String nome) {
-        this.nome = nome;
-    }
+    // teste unitários
+	public String getNome() {
+		return nome;
+	}
 
-    public String getEndereco() {
-        return endereco;
-    }
+	public String getEndereco() {
+		return endereco;
+	}
 
-    public void setEndereco(String endereco) {
-        this.endereco = endereco;
-    }
+	public String getDataFundacao() {
+		return dataFundacao;
+	}
 
-    public String getDataFundacao() {
-        return dataFundacao;
-    }
+	public String getDescricao() {
+		return descricao;
+	}
 
-    public void setDataFundacao(String dataFundacao) {
-        this.dataFundacao = dataFundacao;
-    }
-
-    public String getDescricao() {
-        return descricao;
-    }
-
-    public void setDescricao(String descricao) {
-        this.descricao = descricao;
-    }
-
+    
 }

@@ -67,23 +67,23 @@ public class Atribuicoes extends Controle{
 
         switch(n){
            case 1: for (PontosTuristicos cont : ambiental) {
-            JOptionPane.showMessageDialog(null, "\nNOME: " + cont.getNome() + "\nLOCALIZAÇÃO: " + cont.getEndereco() + "\nFUNDAÇÃO: " + cont.getDataFundacao() + "\nDESCRIÇÃO: " + cont.getDescricao());
+            JOptionPane.showMessageDialog(null, cont.toString());
         }    break;
            
            case 2: for (PontosTuristicos cont : religiosos) {
-            JOptionPane.showMessageDialog(null, "\nNOME: " + cont.getNome() + "\nLOCALIZAÇÃO: " + cont.getEndereco() + "\nFUNDAÇÃO: " + cont.getDataFundacao() + "\nDESCRIÇÃO: " + cont.getDescricao());
+            JOptionPane.showMessageDialog(null, cont.toString());
         } break;
 
            case 3: for (PontosTuristicos cont : histArtistico) {
-            JOptionPane.showMessageDialog(null, "\nNOME: " + cont.getNome() + "\nLOCALIZAÇÃO: " + cont.getEndereco() + "\nFUNDAÇÃO: " + cont.getDataFundacao() + "\nDESCRIÇÃO: " + cont.getDescricao());
+            JOptionPane.showMessageDialog(null, cont.toString());
         } break;
 
            case 4: for (PontosTuristicos cont : lazer) {
-            JOptionPane.showMessageDialog(null, "\nNOME: " + cont.getNome() + "\nLOCALIZAÇÃO: " + cont.getEndereco() + "\nFUNDAÇÃO: " + cont.getDataFundacao() + "\nDESCRIÇÃO: " + cont.getDescricao());
+            JOptionPane.showMessageDialog(null, cont.toString());
         } break;
 
            case 5: for (PontosTuristicos cont : gastronomico) {
-            JOptionPane.showMessageDialog(null, "\nNOME: " + cont.getNome() + "\nLOCALIZAÇÃO: " + cont.getEndereco() + "\nFUNDAÇÃO: " + cont.getDataFundacao() + "\nDESCRIÇÃO: " + cont.getDescricao());
+            JOptionPane.showMessageDialog(null, cont.toString());
         } break;
 
         }  
